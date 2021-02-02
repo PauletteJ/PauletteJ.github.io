@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "**The Four Roles of a Data Scientist**"
-date:       2021-02-02 05:55:14 +0000
+title:      "The Four Roles of a Data Scientist"
+date:       2021-02-02 00:55:15 -0500
 permalink:  the_four_roles_of_a_data_scientist
 ---
 
